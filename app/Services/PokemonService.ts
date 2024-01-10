@@ -1,5 +1,3 @@
-import axios from 'axios';
-import Pokemon from 'App/Models/Pokemon';
 import PokemonDetail from 'App/Models/PokemonDetail';
 import Database from '@ioc:Adonis/Lucid/Database'
 
